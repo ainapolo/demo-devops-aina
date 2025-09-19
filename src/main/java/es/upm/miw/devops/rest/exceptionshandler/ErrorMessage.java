@@ -32,4 +32,5 @@ public class ErrorMessage {
                 ", code=" + code +
                 '}';
     }
+
 }
